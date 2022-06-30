@@ -10,6 +10,8 @@ A ferramenta **smartdump** tem o objetivo de automatizar o processo de dump de b
  - Execução de query em novo banco de dados
  - Definição da variável de ambiente **APPLICATION_CLIENT**
 
+![alt text](https://github.com/imcaiofabio/smartdump//blob/main/diagram.png?raw=true)
+
 # Usage
 > **Note: **Após realizar clonagem de repositório na máquina e definir as variáveis do arquivo smartdump.sh*
 
